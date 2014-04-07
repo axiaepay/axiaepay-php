@@ -2,8 +2,6 @@ Axia ePay PHP Library v1.6.12
 =================================
 Copyright 2013 Axia ePay, Inc.
 
-[http://secure.axiaepay.com](http://secure.axiaepay.com)
-
 [http://wiki.axiaepay.com/developer/phplibrary](http://wiki.axiaepay.com/developer/phplibrary)
 
 SYNOPSIS
